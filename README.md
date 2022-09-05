@@ -1,3 +1,3 @@
 # DTSA_5009_FINAL_PROJECT
-In this project I will be making use of Logistic Regression, Decision trees, and Random Tree Classifier as predictive models to evaluate what group of persons were more likely to survive using passenger data.
-Based on the best accuracy, we will employ the best model on a random passenger to see if he would survive the tragic event.
+
+In this project, we will be making use of the Random Tree Classifier as a predictive model. We'll import data from the U.S. Federal Reserve, along with house price data from Zillow. We'll merge and combine the data, then use it to train a random forest model. The model will predict if house prices will increase or decrease per quarter. We'll measure error using backtesting, then improve our model with new predictors.
